@@ -17,5 +17,8 @@ public class StringReverse {
         System.out.println(strRev);
 
         //    return new StringBuilder(str).reverse().toString();
+
+        //for(int i = str.length()-1; i >= 0; i--){
+        //   strRev += str.charAt(i);
     }
 }
